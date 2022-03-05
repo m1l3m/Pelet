@@ -1,0 +1,10 @@
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\bin\Debug\pelet.exe.config
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\bin\Debug\pelet.exe
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\bin\Debug\pelet.pdb
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.csprojResolveAssemblyReference.cache
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.Glavna_forma.resources
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.Properties.Resources.resources
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.csproj.GenerateResource.Cache
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.exe
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.pdb
+c:\users\milenko\documents\visual studio 2012\Projects\pelet\pelet\obj\Debug\pelet.Podešavanja.resources
